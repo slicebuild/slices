@@ -1,7 +1,7 @@
 OS
 debian
 
-DEPS
+DEP
 ruby
 
 RUN
